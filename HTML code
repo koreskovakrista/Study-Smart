@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Study Smarter</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+
+</head>
+<body>
+    <h1 class="title">
+        ~Study Smart~
+    </h1>
+
+    <p class="titlefortheparagraph"> 
+       Methods to use, to study effectively, smarter, and more interestingly:
+    </p>
+
+    <p class="paragraph">
+        
+        <br><a href="">Blurting method </a>- The blurting method is a study technique where you quickly write down everything you know about a topic without worrying about organization or accuracy. It helps to activate your prior knowledge and identify gaps in your understanding.<br>
+        <br><a href="">Spaced repetition</a> - Spaced repetition is a learning technique that involves reviewing information at increasing intervals over time. Instead of cramming all the information at once, you review it periodically, which strengthens your memory and helps you retain the information for a longer period.<br>
+        <br><a href="">Pomodoro technique</a> - The Pomodoro Technique is a time management method where you work in short bursts of focused work (usually 25 minutes) followed by a short break (around 5 minutes). After a set number of work sessions, you take a longer break. It helps improve productivity and concentration by breaking tasks into manageable chunks.<br>
+        <br><a href="">Second brain</a> - The concept of a second brain refers to using tools like note-taking apps or digital platforms to store and organize information outside of your own mind. It helps offload your memory and frees up mental space, allowing you to access and retrieve information easily when needed.<br>
+        <br><a href="">Interleaving</a> - Interleaving is a study technique where you mix up different topics or types of problems during practice sessions. Instead of focusing on one topic at a time, you switch between different topics. It helps improve retention and problem-solving skills by forcing your brain to make connections and apply knowledge in different contexts.<br>
+        <br><a href="">Feynman technique </a>- select a topic and explain it to a friend or yourself in simple terms. By doing so, you solidify your understanding and identify areas where you may need further clarification.<br>
+        <br><a href="">5 minute rule </a>- The 5-minute rule is a productivity technique where you commit to spending just 5 minutes on a task that you've been procrastinating on. The idea is that once you start, you're likely to continue working on it beyond the initial 5 minutes. It helps overcome the initial resistance and gets you started on tasks.<br>
+        <br><a href="">Time blocking </a>- Time blocking is a scheduling technique where you allocate specific blocks of time for different tasks or activities. By planning your day in advance and assigning time slots for each task, you can prioritize and focus on one task at a time, improving productivity and time management.<br>
+        <br><a href="">Gap effects </a>- Gap effects refer to the phenomenon where introducing a delay or gap between learning sessions enhances memory retention. When you allow some time to pass between learning sessions, it helps strengthen memory and improves long-term retention of the information.<br>
+        <br><a href="">321 method </a>- This simple method is helpful for overcoming the initial battle of the mind and body when trying to perform a set task without the motivation to do so. Start counting down from 3, and on 1, immediately perform the task without second thought. If you master this, it’s a great subconscious method.<br>
+        <br><a href="">Leitner system </a>- utilise flashcards as part of this learning system, create flashcards with questions or key points on one side and the corresponding answer. On the other side, review these cards regularly to reinforce your memory.<br>
+        <br><a href="">Past papers </a>- Past papers are previous exam papers or practice tests that have been used in the past. They are valuable study resources because they allow you to familiarize yourself with the format, style, and types of questions that may appear in an exam. By practicing with past papers, you can assess your knowledge and improve your test-taking skills.<br>
+        <br><a href="">Chunking method </a>- study a topic thoroughly and then set aside the resource material. Take a book or paper and write down all the essential points you remember from your study session. Afterward, revisit the resource material to identify any missed points and reinforce your learning. This method is particularly helpful for memorisation tasks.<br>
+        <br><a href="">Active learning </a>- when preparing for exams or learning in general, engage with the material actively. Seek to truly understand the topics, ask questions and participate in discussions to enhance your comprehension.<br>
+        <br><a href="">Disturbed practice </a>-  instead of cramming all at once, spread out your study sessions over several short periods across several days. This spaced repetition aids in better retention and recall.<br>
+
+    </p>
+
+
+</body>
+</html>
